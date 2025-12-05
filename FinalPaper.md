@@ -18,6 +18,8 @@ Where $\chi^q, \phi_1^q, \phi_2^q$ are each continuous single variable functions
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wn4_Y38mWOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+[![Video Preview](https://img.youtube.com/vi/wn4_Y38mWOw/0.jpg)](www.youtube.com)
+
 1) Using this sequence of tiles, we will construct $\phi_1^q(x)$ and $\phi_2^q(y)$ in such a way that the value of $\phi_1^q(x)+\phi_2^q(y)$ is unique over each tile. The reason for this specific construction will become obvious in the third step.  
 
 2) Again using the sequence of tiles, we will construct $\chi^q(\phi_1^q(x)+\phi_2^q(y))$. Intuitively, one can think of this step as refining $\phi_1^q(x)+\phi_2^q(y)$ by controlling the values that it attains over each of the tiles. The method of this proof is to give us precise local control over the value of the function using the tiles. 
