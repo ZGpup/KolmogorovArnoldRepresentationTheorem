@@ -14,10 +14,6 @@ Where $\chi^q, \phi_1^q, \phi_2^q$ are each continuous single variable functions
 
 1) We will construct a sequence of tiles that cover the unit square. Each set of tiles in the sequence getting smaller and more refined.  For each $q$ we will construct a slightly different sequence of tiles. One such sequence of tiles might look like the following. 
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wn4_Y38mWOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 [![Video Preview](https://img.youtube.com/vi/wn4_Y38mWOw/0.jpg)](www.youtube.com)
 
 1) Using this sequence of tiles, we will construct $\phi_1^q(x)$ and $\phi_2^q(y)$ in such a way that the value of $\phi_1^q(x)+\phi_2^q(y)$ is unique over each tile. The reason for this specific construction will become obvious in the third step.  
